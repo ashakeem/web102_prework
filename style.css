@@ -1,9 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
 
+html{
+    scroll-behavior: smooth;
+}
 body {
     font-family: 'Cabin';
     background-color: #758190;
 }
+
+.navLinks  {
+display: flex;
+}
+
+.navLinks ul{
+display: flex ;
+justify-content: space-evenly;
+list-style-type: none;
+margin-right: 70px;
+
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.navLinks li{
+    margin-right: 20px;
+    font-weight: 600;
+    font-size: 20px;
+   
+
+}
+
+.navLinks li:hover{
+    text-decoration: underline;
+    
+}
+
+
 
 #tentacles {
     width: 50px;
@@ -17,6 +51,18 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    justify-content:space-between;
+    /* position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; */
+    
+}
+
+#iconText{
+    display: flex;
+    align-items: center;
 }
 
 .stats-container {
@@ -73,3 +119,23 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.stats-container{
+    display: flex;
+    align-items: center;
+    
+}
+
+.stats-container:hover{
+    cursor: pointer;
+    box-shadow: o o 30px lightblue;
+}
+
+/* Added for responsiveness */
+#unfunded-btn:hover, #funded-btn:hover, #all-btn:hover {
+  cursor: pointer;
+  box-shadow: 0 0 30px lightblue;
+
+}
+
+
