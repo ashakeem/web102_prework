@@ -35,7 +35,8 @@ Inlcude game recomendation.
 
 Here's a walkthrough demonstrating the implemented features:
 
-![Video Walkthrough](https://i.imgur.com/ILSxHcx.gif)
+![PreworkWalkthrough](https://github.com/ashakeem/web102_prework/assets/125868067/ba6d0135-672d-4e51-b13d-923cf7566a60)
+
 
 <!-- Replace this with the name of the GIF tool you used! -->
 GIF created with LiceCap
