@@ -35,7 +35,7 @@ Inlcude game recomendation.
 
 Here's a walkthrough demonstrating the implemented features:
 
-<img src='https://i.imgur.com/ILSxHcx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/ILSxHcx.gif)
 
 <!-- Replace this with the name of the GIF tool you used! -->
 GIF created with LiceCap
