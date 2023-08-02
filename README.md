@@ -19,10 +19,8 @@ The following **required** functionalities have been completed:
 
 The following optional features have also been implemented:
 
-* [x] The introduction section explains the background of the company and how many games remain unfunded.
-* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* Added a navigation bar for easy access to the stats and games sections.
+
 
 * [x] List anything else that you can get done to improve the app functionality!
 
@@ -35,7 +33,7 @@ Inlcude game recomendation.
 
 Here's a walkthrough demonstrating the implemented features:
 
-![PreworkWalkthrough](https://github.com/ashakeem/web102_prework/assets/125868067/ba6d0135-672d-4e51-b13d-923cf7566a60)
+<img src='https://i.imgur.com/ILSxHcx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with the name of the GIF tool you used! -->
